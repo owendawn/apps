@@ -1,0 +1,66 @@
+.index-link:hover span {
+    transition: ease-in-out .5s;
+    -webkit-transition: ease-in-out .5s;
+    -moz-transition: ease-in-out .5s;
+    -o-transition: ease-in-out .5s;
+    -ms-transition: ease-in-out .5s;
+}
+
+.rightline, .topline, .leftline, .bottomline {
+    position: absolute;
+    display: inline-block;
+    border: 0px dashed white;
+    width: 0;
+    height: 0;
+    display: inline-block;
+}
+
+.index-link .topline {
+    width: 0px;
+    height: 0;
+    left: -700px;
+    top: 0px;
+    border-top: 1px dashed #F130E4;
+}
+
+.index-link:hover .topline {
+    width: 130px;
+    left: 0px;
+}
+
+.index-link .rightline {
+    height: 0px;
+    top: -500px;
+    left: 131px;
+    border-right: 1px dashed #F130E4;
+}
+
+.index-link:hover .rightline {
+    height: 40px;
+    top: 3px;
+}
+
+.index-link .bottomline {
+    width: 0px;
+    height: 0;
+    left: 84px;
+    top: 45px;
+    border-top: 1px dashed #F130E4;
+}
+
+.index-link:hover .bottomline {
+    width: 130px;
+    left: 0px;
+}
+
+.index-link .leftline {
+    height: 0px;
+    top: 75px;
+    left: -2px;
+    border-right: 1px dashed #F130E4;
+}
+
+.index-link:hover .leftline {
+    height: 40px;
+    top: 3px;
+}
