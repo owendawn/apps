@@ -21,7 +21,7 @@ $this->title = "Pan 我的地盘，我做主！ -- Pan Blog Zone";
     <meta http-equiv="Page-Enter" content="blendTrans(Duration=2.0,Transition=10)"/>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <title><?= Html::encode($this->title) ?></title>
-    <link rel="shortcut icon" href="https://raw.githubusercontent.com/owendawn/Resource/master/img/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="http://d.139.sh/owendawn139/Resource/img/favicon.ico" type="image/x-icon"/>
 
 <!--    <link rel="stylesheet" href="/apps/web/lib/font-awesome/css/font-awesome.min.css">-->
     <link rel="stylesheet" href="http://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
