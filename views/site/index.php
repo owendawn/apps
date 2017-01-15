@@ -18,7 +18,8 @@ $this->title = 'My Yii Application';
             <!-- ÂÖ²¥£¨Carousel£©Ïî?? -->
             <div class="carousel-inner ">
                 <div class="item active">
-                    <img src="http://d.139.sh/owendawn139/Resource/img/slide1.jpg" alt="First slide">
+                    <img src="https://vi0.6rooms.com/live/2017/01/14/19/1002v1484392485289091878_b.jpg" alt="First slide">
+<!--                    <img src="http://d.139.sh/owendawn139/Resource/img/slide1.jpg" alt="First slide">-->
                     <div class="carousel-caption item-desc">
                         <p style="font-size: 50pt;">The best preparation for tomorrow</p>
                         <br>
@@ -28,7 +29,8 @@ $this->title = 'My Yii Application';
                     </div>
                 </div>
                 <div class="item">
-                    <img src="http://d.139.sh/owendawn139/Resource/img/slide2.jpg" alt="Second slide">
+                    <img src="https://vi3.6rooms.com/live/2017/01/14/19/1002v1484392492527275932_b.jpg" alt="Second slide">
+<!--                    <img src="http://d.139.sh/owendawn139/Resource/img/slide2.jpg" alt="Second slide">-->
                     <div class="carousel-caption item-desc">
                         <p style="font-size: 50pt;">The greatest test of courage on earth</p>
                         <p style="font-size: 30pt;">is to bear defeat without losing heart.</p>
@@ -37,7 +39,8 @@ $this->title = 'My Yii Application';
                     </div>
                 </div>
                 <div class="item">
-                    <img src="http://d.139.sh/owendawn139/Resource/img/slide3.jpg" alt="Third slide">
+                    <img src="https://vi3.6rooms.com/live/2017/01/14/19/1002v1484392497606232544_b.jpg" alt="Third slide">
+<!--                    <img src="http://d.139.sh/owendawn139/Resource/img/slide3.jpg" alt="Third slide">-->
                     <div class="carousel-caption item-desc">
                         <p style="font-size: 40pt;">Don't aim for success if you want it;</p>
                         <br>

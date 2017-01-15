@@ -46,7 +46,8 @@ $this->title = "blog-edit"
 <script type="text/javascript" charset="utf-8" src="http://ueditor.baidu.com/ueditor/lang/zh-cn/zh-cn.js"></script>
 
 <div style="position: fixed; height: 100%; width: 100%;">
-    <img src="http://d.139.sh/owendawn139/Resource/img/p1.jpg" style="width: 100%;">
+    <img src="https://vi1.6rooms.com/live/2017/01/14/19/1002v1484392467024417861_b.jpg" style="width: 100%;">
+<!--    <img src="http://d.139.sh/owendawn139/Resource/img/p1.jpg" style="width: 100%;">-->
 </div>
 <div>&nbsp;</div>
 <div class="col-xs-12" style="margin-top: 300px; padding-left: 10%; padding-right: 10%; padding-top: 0px;">

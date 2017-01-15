@@ -93,7 +93,8 @@ $this->title = "application-listedit"
 </script>
 
 <div style="position: fixed; height: 100%; width: 100%;">
-    <img src="http://d.139.sh/owendawn139/Resource/img/p3.jpg" style="width: 100%;">
+    <img src="https://vi1.6rooms.com/live/2017/01/14/19/1002v1484392477716458698_b.jpg" style="width: 100%;">
+<!--    <img src="http://d.139.sh/owendawn139/Resource/img/p3.jpg" style="width: 100%;">-->
 </div>
 <div>&nbsp;</div>
 <div class="col-xs-12"
